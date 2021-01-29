@@ -1,0 +1,673 @@
+{
+  "cityList": [
+    {
+        "cityName" : "Екатеринбург",
+        "adressList" : [
+            {
+                "addressName" : "8 марта 13",
+                "cameraList" : [
+                    {
+                        "description" : "Коридор 4 этаж",
+                        "uuid" : "dir_kor_4"
+                    },
+                    {
+                      "description" : "Вход 4 этаж",
+                      "uuid" : "dir_exit_4"
+                    },
+                    {
+                      "description" : "Серверная 3 этаж",
+                      "uuid" : "dir_server_3"
+                    },
+                    {
+                      "description" : "Лифты 3 этаж",
+                      "uuid" : "dir_elevator_3"
+                    },
+                    {
+                      "description" : "Коридор 3 этаж",
+                      "uuid" : "dir_kor_3"
+                    },
+                    {
+                      "description" : "Столовая",
+                      "uuid" : "dir_stolovai"
+                    },
+                    {
+                      "description" : "Квадрат 3 этаж",
+                      "uuid" : "dir_server2_3"
+                    },
+                    {
+                      "description" : "Коридор 2",
+                      "uuid" : "dir_kor2_3"
+                    }
+                ]
+            },
+            {
+              "addressName" : "Героев России",
+              "cameraList" : [
+                  {
+                      "description" : "1",
+                      "uuid" : "heroes_1"
+                  },
+                  {
+                    "description" : "2",
+                    "uuid" : "heroes_2"
+                  },
+                  {
+                    "description" : "3",
+                    "uuid" : "heroes_3"
+                  },
+                  {
+                    "description" : "4",
+                    "uuid" : "heroes_4"
+                  },
+                  {
+                    "description" : "5",
+                    "uuid" : "heroes_5"
+                  },
+                  {
+                    "description" : "6",
+                    "uuid" : "heroes_6"
+                  },
+                  {
+                    "description" : "7",
+                    "uuid" : "heroes_7"
+                  },
+                  {
+                    "description" : "8",
+                    "uuid" : "heroes_8"
+                  },
+                  {
+                    "description" : "9",
+                    "uuid" : "heroes_9"
+                  },
+                  {
+                    "description" : "10",
+                    "uuid" : "heroes_10"
+                  },
+                  {
+                    "description" : "11",
+                    "uuid" : "heroes_11"
+                  },
+                  {
+                    "description" : "12",
+                    "uuid" : "heroes_12"
+                  },
+                  {
+                    "description" : "13",
+                    "uuid" : "heroes_13"
+                  },
+                  {
+                    "description" : "14",
+                    "uuid" : "heroes_14"
+                  }
+
+              ]
+          },
+          {
+            "addressName" : " ул. Баумана",
+            "cameraList" : [
+                {
+                    "description" : "1",
+                    "uuid" : "baymana_1"
+                },
+                {
+                  "description" : "2",
+                  "uuid" : "baymana_2"
+                },
+                {
+                  "description" : "3",
+                  "uuid" : "baymana_3"
+                },
+                {
+                  "description" : "4",
+                  "uuid" : "baymana_4"
+                },
+                {
+                  "description" : "5",
+                  "uuid" : "baymana_5"
+                },
+                {
+                  "description" : "6",
+                  "uuid" : "baymana_6"
+                },
+                {
+                  "description" : "7",
+                  "uuid" : "baymana_7"
+                },
+                {
+                  "description" : "8",
+                  "uuid" : "baymana_8"
+                },
+                {
+                  "description" : "9",
+                  "uuid" : "baymana_9"
+                },
+                {
+                  "description" : "10",
+                  "uuid" : "baymana_10"
+                },
+                {
+                  "description" : "11",
+                  "uuid" : "baymana_11"
+                },
+                {
+                  "description" : "12",
+                  "uuid" : "baymana_12"
+                },
+                {
+                  "description" : "13",
+                  "uuid" : "baymana_13"
+                },
+                {
+                  "description" : "14",
+                  "uuid" : "baymana_14"
+                },
+                {
+                  "description" : "live",
+                  "uuid" : "baymana"
+                }
+
+            ]
+        },
+        {
+          "addressName" : "МеГа",
+          "cameraList" : [
+              {
+                  "description" : "1",
+                  "uuid" : "mega_1"
+              },
+              {
+                "description" : "2",
+                "uuid" : "mega_2"
+              },
+              {
+                "description" : "3",
+                "uuid" : "mega_3"
+              },
+              {
+                "description" : "4",
+                "uuid" : "mega_4"
+              },
+              {
+                "description" : "5",
+                "uuid" : "mega_5"
+              },
+              {
+                "description" : "6",
+                "uuid" : "mega_6"
+              },
+              {
+                "description" : "7",
+                "uuid" : "mega_7"
+              },
+              {
+                "description" : "8",
+                "uuid" : "mega_8"
+              },
+              {
+                "description" : "9",
+                "uuid" : "mega_9"
+              },
+              {
+                "description" : "10",
+                "uuid" : "mega_10"
+              },
+              {
+                "description" : "11",
+                "uuid" : "mega_11"
+              },
+              {
+                "description" : "12",
+                "uuid" : "mega_12"
+              },
+              {
+                "description" : "13",
+                "uuid" : "mega_13"
+              },
+              {
+                "description" : "14",
+                "uuid" : "mega_14"
+              },
+              {
+                "description" : "live",
+                "uuid" : "mega"
+              }
+
+          ]
+      },
+      {
+        "addressName" : "ул. Громова",
+        "cameraList" : [
+            {
+                "description" : "1",
+                "uuid" : "gromova_1"
+            },
+            {
+              "description" : "2",
+              "uuid" : "gromova_2"
+            },
+            {
+              "description" : "3",
+              "uuid" : "gromova_3"
+            },
+            {
+              "description" : "4",
+              "uuid" : "gromova_4"
+            },
+            {
+              "description" : "5",
+              "uuid" : "gromova_5"
+            },
+            {
+              "description" : "6",
+              "uuid" : "gromova_6"
+            },
+            {
+              "description" : "7",
+              "uuid" : "gromova_7"
+            },
+            {
+              "description" : "8",
+              "uuid" : "gromova_8"
+            },
+            {
+              "description" : "9",
+              "uuid" : "gromova_9"
+            },
+            {
+              "description" : "10",
+              "uuid" : "gromova_10"
+            },
+            {
+              "description" : "11",
+              "uuid" : "gromova_11"
+            },
+
+            {
+              "description" : "live",
+              "uuid" : "gromova"
+            }
+
+        ]
+    },
+    {
+      "addressName" : "Антей",
+      "cameraList" : [
+          {
+              "description" : "1",
+              "uuid" : "antei_1"
+          },
+          {
+            "description" : "2",
+            "uuid" : "antei_2"
+          },
+          {
+            "description" : "3",
+            "uuid" : "antei_3"
+          },
+          {
+            "description" : "4",
+            "uuid" : "antei_4"
+          },
+          {
+            "description" : "5",
+            "uuid" : "antei_5"
+          },
+          {
+            "description" : "6",
+            "uuid" : "antei_6"
+          },
+          {
+            "description" : "7",
+            "uuid" : "antei_7"
+          },
+          {
+            "description" : "8",
+            "uuid" : "antei_8"
+          },
+          {
+            "description" : "9",
+            "uuid" : "antei_9"
+          },
+          {
+            "description" : "10",
+            "uuid" : "antei_10"
+          },
+          {
+            "description" : "11",
+            "uuid" : "antei_11"
+          },
+          {
+            "description" : "12",
+            "uuid" : "antei_12"
+          },
+          {
+            "description" : "13",
+            "uuid" : "antei_13"
+          },
+          {
+            "description" : "14",
+            "uuid" : "antei_14"
+          },
+          {
+            "description" : "15",
+            "uuid" : "antei_15"
+          },
+          {
+            "description" : "16",
+            "uuid" : "antei_16"
+          },
+          {
+            "description" : "17",
+            "uuid" : "antei_17"
+          },
+          {
+            "description" : "live",
+            "uuid" : "mega"
+          }
+
+      ]
+  }
+        ]
+    },
+    {
+      "cityName" : "Уральский",
+      "adressList" : [
+          {
+              "addressName" : "ул. Капитана Флерова",
+              "cameraList" : [
+                  {
+                      "description" : "1",
+                      "uuid" : "uralski_1"
+                  },
+                  {
+                    "description" : "2",
+                    "uuid" : "uralski_2"
+                  }
+
+              ]
+          }
+      ]
+  },
+  {
+    "cityName" : "Тавда",
+    "adressList" : [
+        {
+            "addressName" : "ул. Заводская",
+            "cameraList" : [
+                {
+                    "description" : "1",
+                    "uuid" : "tavda_1"
+                },
+                {
+                  "description" : "2",
+                  "uuid" : "tavda_2"
+                },
+                {
+                  "description" : "3",
+                  "uuid" : "tavda_3"
+              },
+              {
+                "description" : "4",
+                "uuid" : "tavda_4"
+              },
+                {
+                "description" : "5",
+                "uuid" : "tavda_5"
+              },
+                  {
+                "description" : "6",
+                "uuid" : "tavda_6"
+              },
+              {
+                "description" : "7",
+                "uuid" : "tavda_7"
+              },
+              {
+                "description" : "8",
+                "uuid" : "tavda_8"
+            },
+            {
+              "description" : "9",
+              "uuid" : "tavda_9"
+            },
+            {
+              "description" : "10",
+              "uuid" : "tavda_10"
+            },
+            {
+              "description" : "11",
+              "uuid" : "tavda_11"
+            },
+            {
+              "description" : "12",
+              "uuid" : "tavda_12"
+            }
+            ]
+        }
+    ]
+},
+{
+  "cityName" : "Ирбит",
+  "adressList" : [
+      {
+          "addressName" : "ул.Советская",
+          "cameraList" : [
+              {
+                  "description" : "1",
+                  "uuid" : "irbit_1"
+              },
+              {
+                "description" : "2",
+                "uuid" : "irbit_2"
+              },
+              {
+                "description" : "3",
+                "uuid" : "irbit_3"
+            },
+            {
+              "description" : "4",
+              "uuid" : "irbit_4"
+            },
+              {
+              "description" : "5",
+              "uuid" : "irbit_5"
+            },
+                {
+              "description" : "6",
+              "uuid" : "irbit_6"
+            },
+            {
+              "description" : "7",
+              "uuid" : "irbit_7"
+            },
+            {
+              "description" : "8",
+              "uuid" : "irbit_8"
+          },
+          {
+            "description" : "9",
+            "uuid" : "irbit_9"
+          }
+          ]
+      }
+  ]
+},
+{
+  "cityName" : "Лесной",
+  "adressList" : [
+      {
+          "addressName" : "ул.Ленина",
+          "cameraList" : [
+              {
+                  "description" : "1",
+                  "uuid" : "lesnoi_1"
+              },
+              {
+                "description" : "2",
+                "uuid" : "lesnoi_2"
+              },
+              {
+                "description" : "3",
+                "uuid" : "lesnoi_3"
+            },
+            {
+              "description" : "4",
+              "uuid" : "lesnoi_4"
+            },
+              {
+              "description" : "5",
+              "uuid" : "lesnoi_5"
+            },
+                {
+              "description" : "6",
+              "uuid" : "lesnoi_6"
+            },
+            {
+              "description" : "7",
+              "uuid" : "lesnoi_7"
+            },
+            {
+              "description" : "8",
+              "uuid" : "lesnoi_8"
+          },
+          {
+            "description" : "9",
+            "uuid" : "lesnoi_9"
+          },
+          {
+            "description" : "10",
+            "uuid" : "lesnoi_10"
+          },
+          {
+            "description" : "11",
+            "uuid" : "lesnoi_11"
+          },
+          {
+            "description" : "13",
+            "uuid" : "lesnoi_13"
+          },
+          {
+            "description" : "14",
+            "uuid" : "lesnoi_14"
+          },
+          {
+            "description" : "15",
+            "uuid" : "lesnoi_15"
+          },
+          {
+            "description" : "16",
+            "uuid" : "lesnoi_16"
+          },
+          {
+            "description" : "17",
+            "uuid" : "lesnoi_17"
+          }
+
+          ]
+      }
+  ]
+},
+{
+  "cityName" : "Новоуральск",
+  "adressList" : [
+      {
+          "addressName" : "ул.Фрунзе",
+          "cameraList" : [
+              {
+                  "description" : "1",
+                  "uuid" : "novour_1"
+              },
+              {
+                "description" : "2",
+                "uuid" : "novour_2"
+              },
+              {
+                "description" : "3",
+                "uuid" : "novour_3"
+            },
+            {
+              "description" : "4",
+              "uuid" : "novour_4"
+            },
+              {
+              "description" : "5",
+              "uuid" : "novour_5"
+            },
+                {
+              "description" : "6",
+              "uuid" : "novour_6"
+            },
+            {
+              "description" : "7",
+              "uuid" : "novour_7"
+            },
+            {
+              "description" : "8",
+              "uuid" : "novour_8"
+          },
+          {
+            "description" : "9",
+            "uuid" : "novour_9"
+          },
+          {
+            "description" : "10",
+            "uuid" : "novour_10"
+          },
+          {
+            "description" : "11",
+            "uuid" : "novour_11"
+          },
+          {
+            "description" : "13",
+            "uuid" : "novour_13"
+          },
+          {
+            "description" : "14",
+            "uuid" : "novour_14"
+          },
+          {
+            "description" : "15",
+            "uuid" : "novour_15"
+          },
+          {
+            "description" : "16",
+            "uuid" : "novour_16"
+          },
+          {
+            "description" : "17",
+            "uuid" : "novour_17"
+          },
+          {
+            "description" : "18",
+            "uuid" : "novour_18"
+          },
+          {
+            "description" : "19",
+            "uuid" : "novour_19"
+          },
+          {
+            "description" : "20",
+            "uuid" : "novour_20"
+          },
+          {
+            "description" : "21",
+            "uuid" : "novour_21"
+          },
+          {
+            "description" : "22",
+            "uuid" : "novour_22"
+          },
+          {
+            "description" : "23",
+            "uuid" : "novour_23"
+          },
+          {
+            "description" : "24",
+            "uuid" : "novour_24"
+          }
+          ]
+      }
+  ]
+}
+]
+}
